@@ -54,7 +54,8 @@ spring:
     # 国际化资源文件路径
     basename: i18n/messages
   profiles:
-    active: druid
+    # include 表示无条件附带另一个配置文件
+    include: druid
   # 文件上传
   servlet:
     multipart:
