@@ -124,6 +124,8 @@ https://blog.csdn.net/qq_42527269/article/details/130475009
 
 https://blog.csdn.net/mimang_ma/article/details/131955495
 
+https://juejin.cn/post/7069389775035170823
+
 再附上Redis连接工具来检测是否连接成功：
 
 redis-cli 
